@@ -17,7 +17,7 @@
         <assembly.version>3.0.0</assembly.version>
         <webdrivermanager.version>3.4.0</webdrivermanager.version>
         <selenium.version>3.4.0</selenium.version>
-        <commons.io>2.5</commons.io>
+        <commons.io>2.7</commons.io>
         <commons.validator>1.6</commons.validator>
         <appium.client>5.0.0-BETA8</appium.client>
         <json.simple>1.1.1</json.simple>
