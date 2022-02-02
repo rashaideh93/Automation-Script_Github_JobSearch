@@ -23,7 +23,7 @@
         <json.simple>1.1.1</json.simple>
         <rest.assured>3.0.2</rest.assured>
         <mysql>8.0.16</mysql>
-        <postgresql.version>42.0.0</postgresql.version>
+        <postgresql.version>42.2.25</postgresql.version>
         <mongodb.version>3.4.2</mongodb.version>
         <jsch>0.1.54</jsch>
         <pdfbox.version>2.0.15</pdfbox.version>
