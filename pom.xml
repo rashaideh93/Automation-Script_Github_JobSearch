@@ -27,7 +27,7 @@
         <mongodb.version>3.4.2</mongodb.version>
         <jsch>0.1.54</jsch>
         <pdfbox.version>2.0.15</pdfbox.version>
-        <textpdf.version>5.5.10</textpdf.version>
+        <textpdf.version>5.5.12</textpdf.version>
         <phantom.version>1.4.3</phantom.version>
         <environment.type>staging</environment.type>
         <cucumber.version>4.2.6</cucumber.version>
